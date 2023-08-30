@@ -14,7 +14,7 @@ We started by building a floor using the `plane` object and placing it on the gr
 - Repurposed the same `cube` objects used for the side and backside walls.
 
 ## Cylinders
-- Added cylinders to the front side of the house to add more detail.
+- Added `cylinders` to the front side of the house to add more detail.
 
 ## Experience Gained
 One of the things that was fun about this project was the slow and meticulous process of
