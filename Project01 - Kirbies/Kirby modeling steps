@@ -1,0 +1,24 @@
+1. The first step on making the Kirby was creating a prefab Kirby model. It was made using
+a set of capsules and spheres modified in various ways to shape the iconic Kirby character.
+
+2. When we had Kirby prefab done, the next thing on the agenda was selecting Kirby's to recreate.
+From the huge selection they were picked 4: Ninja Kirby, Suplex Kirby, Missile Kirby, and
+Mecha Kirby.
+
+3. It was started with Ninja Kirby, his modeling required a bit of creativity to imitate the shape
+of the ninja mask kirby wears. It was possible with multiple modified cubes and spheres. To make the
+sharper parts like the kunai knife and star symbol, capsules and cubes were added.
+
+4. For Suplex Kirby it was needed to make his headband as dynamic as possible, so through a string of
+segmented cubes the headband was made alongside the power pose during his attack.
+
+5. The Missile Kirby was fairly simple. But due to that, the design needed to have more "style" to it.
+So smoke objects were made and orange particles added.
+
+6. Kirby mecha was the one where most time was invested, also my favorite one. Since the mechanical aspect
+of the character is closer to 8-bit, it felt like making a pixel art. A great variety of heriarchy groups
+had to be created to maintain the sense of order, because parts like the helmet and gauntlets had a lot
+of details in them.
+
+7. It must be noted that the original Kirby prefab was merged with the other Kirby's after all 4 were
+duplicated. Even more, the prefabs were made independent and no longer variants.
